@@ -362,22 +362,22 @@ footer .end {
         max-width: 90vw;
        }
        nav img{
-           width: 120px;
+           width: 85px;
        }
        .Language {    
-        font-size: 20px;
+        font-size: 12px;
         border-radius: 5px;
-        padding: 6px 8px;
+        padding: 5px 7px;
     }
     .button{
         display: flex;
-        gap: 15px;
+        gap: 9px;
     }
     .btn-Signin {
       
-        font-size: 20px;
+        font-size: 12px;
         border-radius: 5px;
-        padding: 2px 8px;
+        padding: 5px 7px;
         
     }
        .first{
